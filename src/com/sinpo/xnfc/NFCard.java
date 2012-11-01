@@ -57,6 +57,8 @@ public final class NFCard extends Activity implements OnClickListener,
 		HINT, DATA, MSG
 	}
 
+	
+	//save 20121101
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
